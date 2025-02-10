@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload 10022025 - 2:36pm - 03:02pm
         </p>
         <p>
-          Edit <code>src/App.js</code> and save to reload from gi01
+          Edit <code>src/App.js</code> and save to reload from gi12
         </p>
         <a
           className="App-link"
