@@ -13,7 +13,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload from gi12
         </p>
         <p>
-          Edit <code>src/App.js</code> and save to reload from gi01 on 4:45
+          Edit <code>src/App.js</code> apple
         </p>
         <a
           className="App-link"
