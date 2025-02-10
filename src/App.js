@@ -15,9 +15,6 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload from gi01 on 4:45
         </p>
-        <p>
-          Edit <code>src/App.js</code> and testing from gi01
-        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
