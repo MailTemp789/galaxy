@@ -13,7 +13,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload from gi12
         </p>
         <p>
-          Edit <code>src/App.js</code> carot
+          Edit <code>src/App.js</code> three new branch created
         </p>
         <a
           className="App-link"
