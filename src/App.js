@@ -13,11 +13,8 @@ function App() {
           Edit <code>src/App.js</code> and save to reload from gi12
         </p>
         <p>
-<<<<<<< HEAD
           Edit <code>src/App.js</code> i am sujal
-=======
           Edit <code>src/App.js</code> three new branch created
->>>>>>> kishan
         </p>
         <a
           className="App-link"
